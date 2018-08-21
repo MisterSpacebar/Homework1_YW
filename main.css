@@ -1,0 +1,85 @@
+body {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: "Georgia", "Times New Roman", Times,  serif;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+                    /* header bar */
+header {
+    height: 100px;
+    width: 960px;
+    margin: 0 auto;
+    margin-bottom: 1%;
+    border-width: 5px;
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+.title {
+    color: teal;
+    font-size: 35px;
+    float: left;
+    padding-left: 5%;
+    padding-bottom: 5px;
+    font-family: "Georgia", "Times New Roman", Times,  serif;
+}
+
+.navBar {
+    padding-top: 40px;
+    padding-right: 5%;
+}
+
+#portfolio {
+    height: 100px;
+    text-align: center;
+    float: right;
+    padding: 5px;
+}
+
+#contact {
+    height: 100px;
+    text-align: center;
+    float: right;
+    padding: 5px;
+}
+
+#about {
+    height: 100px;
+    text-align: center;
+    float: right;
+    padding: 5px;
+    border-width: 5px;
+}
+
+                    /* main page */
+.article {
+    border-color: #cccccc;
+    border-width: 1px;
+    background-color: #ebebeb;
+    margin-bottom: 25px;
+    width: 960px;
+    margin: 0 auto;
+}
+
+                    /* portfolio */
+.boxes {
+    width: 960px;
+    height: 560px;
+    background-color: #ebebeb;
+    margin-bottom: 25px;
+}
+
+                    /* footer */
+footer {
+    text-align: center;
+    color: #ebebeb;
+    width: 960px;
+    margin: 0 auto;
+}
