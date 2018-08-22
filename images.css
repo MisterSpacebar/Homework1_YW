@@ -4,44 +4,41 @@
     height: 300px;
     width: 400px;
 }
-/*
+
 img {
-    z-index: 1;
     width: 33%;
     height: 33%;
     float: left;
     padding: 25px;
 }
+/*
+.box {
+    width: 410px;
+    height: 310px;
+
+}
 
 #text1 {
-    z-index: 2;
-    position: fixed;
-    right: 50%;
-    top: 75%;
+    position: absolute;
+    width: 100%;
     text-align: center;
 }
 
 #text2 {
-    z-index: 2;
-    position: fixed;
-    right: 50%;
-    top: 75%;
+    position: absolute;
+    width: 100%;
     text-align: center;
 }
 
 #text3 {
-    z-index: 2;
-    position: fixed;
-    right: 50%;
-    top: 75%;
+    position: absolute;
+    width: 100%;
     text-align: center;
 }
 
 #text4 {
-    z-index: 2;
-    position: fixed;
-    right: 50%;
-    top: 75%;
+    position: absolute;
+    width: 100%;
     text-align: center;
 }
 */
@@ -58,3 +55,9 @@ figure img {
     width: 350px;
     height: 225px;
 }
+/*
+figcaption {
+    position:absolute;
+    display: inline;
+}
+*/
