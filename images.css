@@ -4,15 +4,14 @@
     height: 300px;
     width: 400px;
 }
-/*
+
 img {
-    z-index: 1;
     width: 33%;
     height: 33%;
     float: left;
     padding: 25px;
 }
-
+/*
 #text1 {
     z-index: 2;
     position: fixed;
