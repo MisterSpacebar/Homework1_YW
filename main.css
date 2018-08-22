@@ -86,7 +86,11 @@ header {
 
                     /* contact */
 form {
-    padding: 10px;
+    margin:5px;
+}
+
+fieldset {
+    margin: 5px;
 }
 
                     /* footer */
