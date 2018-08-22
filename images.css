@@ -3,13 +3,13 @@
     margin: 10px;
     height: 300px;
     width: 400px;
+    padding: 15px;
 }
 
 img {
     width: 33%;
     height: 33%;
     float: left;
-    padding: 25px;
 }
 /*
 #text1 {

@@ -23,17 +23,18 @@ header {
 }
 
 .title {
-    color: teal;
+    color: white;
     font-size: 35px;
     float: left;
-    padding-left: 5%;
-    padding-bottom: 5px;
+    text-align: center;
+    padding: 20px;
+    background-color: teal;
     font-family: "Georgia", "Times New Roman", Times,  serif;
 }
 
 .navBar {
-    padding-top: 40px;
-    padding-right: 5%;
+    text-align: center;
+    padding: 20px;
 }
 
 #portfolio {
@@ -71,9 +72,13 @@ header {
                     /* portfolio */
 .boxes {
     width: 960px;
-    height: 560px;
+    height: 600px;
     background-color: #ebebeb;
     margin-bottom: 25px;
+}
+
+.box {
+    margin: 15px;
 }
 
                     /* footer */
