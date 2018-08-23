@@ -10,38 +10,51 @@ img {
     width: 33%;
     height: 33%;
     float: left;
+    position: relative;
 }
 /*
 #text1 {
     z-index: 2;
-    position: fixed;
-    right: 50%;
+    position: absolute;
     top: 75%;
     text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: teal;
+    color: white;
 }
 
 #text2 {
     z-index: 2;
-    position: fixed;
-    right: 50%;
+    position: absolute;
     top: 75%;
     text-align: center;
+    width: 100;
+    padding: 10px;
+    background-color: teal;
+    color: white;
 }
 
 #text3 {
     z-index: 2;
-    position: fixed;
-    right: 50%;
+    position: absolute;
     top: 75%;
     text-align: center;
+    width: 100;
+    padding: 10px;
+    background-color: teal;
+    color: white;
 }
 
 #text4 {
     z-index: 2;
-    position: fixed;
-    right: 50%;
+    position: absolute;
     top: 75%;
     text-align: center;
+    width: 100;
+    padding: 10px;
+    background-color: teal;
+    color: white;
 }
 */
 figure {
